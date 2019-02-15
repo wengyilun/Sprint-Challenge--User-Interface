@@ -238,8 +238,6 @@ footer nav a {
     width:calc(50% - 4%);
     justify-content: space-around;
     margin-right:4%;
-    /*border-left: 24px solid transparent;*/
-    /*border-right: 24px solid transparent;*/
     margin-top: 24px;
     padding-bottom: 24px;
     border-bottom: 1px dashed black;
@@ -262,6 +260,7 @@ footer nav a {
 .bottom-content .about{
     padding: 24px 0 ;
 }
-img{
+
+.card img{
     width:100%;
 }
